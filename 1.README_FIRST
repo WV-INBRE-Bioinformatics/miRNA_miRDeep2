@@ -1,4 +1,3 @@
-# miRNA_miRDeep2
 1. Install the following perl modules
 	IO::Uncompress::UnXz
 	IO::Uncompress::UnLzma
@@ -13,4 +12,3 @@
 3. Run the scripts serially in the order of their index numbers. First read the instructions in each script for necessary modifications of paths and other variables
 
 4. VERY IMPORTANT: Please very and change ALL input and output file and directory paths as necessary.
-

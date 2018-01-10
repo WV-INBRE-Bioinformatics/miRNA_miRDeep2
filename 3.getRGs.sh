@@ -32,3 +32,5 @@ do
 
 	echo -e "$A\t@RG ID:$ID CN:$CN PU:$PU PL:$PL LB:$LB SM:$SM\n"
 done
+# Sridhar A Malkaram (smalkaram@wvstateu.edu)
+# Last modified on: 12/30/2017

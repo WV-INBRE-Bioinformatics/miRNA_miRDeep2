@@ -41,3 +41,5 @@ quantifier.pl -y $TIME -p all_novel_precursor.fa  -m all_novel_mature.fa  -s all
 #=====================
 cd $WD/MATURE
 quantifier.pl -y $TIME -p all_mirbase_detected_precursor.fa -m all_mirbase_detected_mature.fa -s all_mirbase_detected_star.fa -r $READS -t $SPECIES
+# Sridhar A Malkaram (smalkaram@wvstateu.edu)
+# Last modified on: 12/30/2017

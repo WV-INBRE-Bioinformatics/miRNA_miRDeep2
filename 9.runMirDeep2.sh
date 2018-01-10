@@ -25,3 +25,5 @@ RELATED="/data/db/miRNA/miRBase/release21/rno_cgr_mature.fa"
 PRECURSORS="/data/db/miRNA/miRBase/release21/mmu_hairpin.fa"
 
 miRDeep2.pl $READS $GENOME $ARF $MATURE $RELATED $PRECURSORS -t Mouse 2>report.log
+# Sridhar A Malkaram (smalkaram@wvstateu.edu)
+# Last modified on: 12/30/2017

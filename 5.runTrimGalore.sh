@@ -43,3 +43,5 @@ do
 	echo "trim_galore -o $OUT $TRIMGALOREOPTIONS $FORWARD "  | qsub -N $BASE -q batch -l nodes=1:ppn=1 -V -d $OUT
 done
 
+# Sridhar A Malkaram (smalkaram@wvstateu.edu)
+# Last modified on: 12/30/2017

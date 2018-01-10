@@ -11,3 +11,5 @@ export ALL_FILE_LIST="/home/smalkaram/Projects/alwayMRNA20170516143625/ALL_FILE_
 
 # Run this by supplying a trimmed fastq file, to get the distribution of read lengths in that sample
 zcat $1 | paste  - - - - |  awk 'BEGIN{FS="\t"}{print(length($2));}' | sort | uniq -c | awk '{print($2, $1);}'
+# Sridhar A Malkaram (smalkaram@wvstateu.edu)
+# Last modified on: 12/30/2017

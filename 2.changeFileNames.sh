@@ -93,3 +93,5 @@ ln -s ../170510/942_KO-20wk-CR-3_S5_L001_R1_001.fastq.gz KO_20W_CR_R3_S5_L1_1.fa
 ln -s ../170510/942_KO-20wk-CR-3_S5_L002_R1_001.fastq.gz KO_20W_CR_R3_S5_L2_1.fastq.gz
 ln -s ../170510/943_KO-20wk-CR-4_S6_L001_R1_001.fastq.gz KO_20W_CR_R4_S6_L1_1.fastq.gz
 ln -s ../170510/943_KO-20wk-CR-4_S6_L002_R1_001.fastq.gz KO_20W_CR_R4_S6_L2_1.fastq.gz
+# Sridhar A Malkaram (smalkaram@wvstateu.edu)
+# Last modified on: 12/30/2017

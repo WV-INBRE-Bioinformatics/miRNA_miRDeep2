@@ -26,3 +26,5 @@ do
 	echo "perl /data/bio/processing/Fastqc/0.11.5/fastqc $IN/$FILE --outdir=$OUT/$BASE --extract"  | qsub -V -l nodes=1:ppn=1 -q batch -d $OUT/$BASE -N $BASE
 done
 
+# Sridhar A Malkaram (smalkaram@wvstateu.edu)
+# Last modified on: 12/30/2017

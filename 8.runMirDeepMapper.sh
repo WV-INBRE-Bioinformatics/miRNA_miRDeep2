@@ -25,3 +25,5 @@ BOWTIE_INDEX="/data/db/BowtieIndexes/GRCm38p5/GRCm38p5"
 MIRDEEP_MAPPER_OPTIONS=" -e -h -d -i -j -m -p $BOWTIE_INDEX -r $MULTIPLE -v -n "
 
 mapperMOD.pl config.txt $MIRDEEP_MAPPER_OPTIONS -s reads.fa -t reads_vs_genome.arf
+# Sridhar A Malkaram (smalkaram@wvstateu.edu)
+# Last modified on: 12/30/2017
